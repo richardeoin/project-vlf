@@ -25,7 +25,15 @@ Static HTML/CSS/Javascript + CouchDB
 
 [NodeJS tool for configuring CouchDB](https://github.com/richardeoin/vlf-make-couchdb)
 
-# [License](LICENSE.md)
+## Results
+
+Below is the plot from quite a busy day. The usual dawn/dusk and 07:00
+UT transmitter shutdown patterns can be seen, but the effects of two
+X-Class solar flares at 08:00 UT and 15:00 UT are also visible.
+
+![Plot from 25th October 2013](SID25Oct13.gif)
+
+## [License](LICENSE.md)
 
 The majority of the project is under the
 [MIT](http://opensource.org/licenses/MIT) license, but some parts are
