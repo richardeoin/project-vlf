@@ -1,3 +1,5 @@
+**Monitors VLF Radio Propagation in the Ionosphere**
+
 This git repository is an overview of the project. This file contains
 links to the actual sources.
 
@@ -10,6 +12,7 @@ links to the actual sources.
 ![Remote Unit](Remote-Hardware.JPG)
 
 [Hardware Designs](https://github.com/richardeoin/vlf-remote-hardware)
+
 [C Firmware](https://github.com/richardeoin/vlf-remote-firmware)
 
 ## The Gateway Uint
@@ -17,6 +20,7 @@ links to the actual sources.
 ![Gateway Unit](Gateway-Hardware.JPG)
 
 [Hardware Designs](https://github.com/richardeoin/vlf-gateway-hardware)
+
 [C Firmware](https://github.com/richardeoin/vlf-gateway-firmware)
 
 ## The Website
