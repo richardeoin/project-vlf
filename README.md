@@ -10,12 +10,14 @@ links to the actual sources.
 ![Remote Unit](Remote-Hardware.JPG)
 
 [Hardware Designs](https://github.com/richardeoin/vlf-remote-hardware)
+[C Firmware](https://github.com/richardeoin/vlf-remote-firmware)
 
 ## The Gateway Uint
 
 ![Gateway Unit](Gateway-Hardware.JPG)
 
 [Hardware Designs](https://github.com/richardeoin/vlf-gateway-hardware)
+[C Firmware](https://github.com/richardeoin/vlf-gateway-firmware)
 
 ## The Website
 
