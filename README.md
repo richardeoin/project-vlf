@@ -31,8 +31,8 @@ Static HTML/CSS/Javascript + CouchDB
 
 ## Results
 
-The plot below is a good example of the results that can be achived
-when solar activity effects ionospheric propoagation. This plot is
+The plot below is a good example of the results that can be achieved
+when solar activity affects ionospheric propoagation. This plot is
 from January when the short winter days here in the UK restricts the
 hours when useful measurements can be obtained, but nevertheless this
 plot shows the effect of several solar flares. The resulting peaks on
